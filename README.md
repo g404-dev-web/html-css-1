@@ -49,6 +49,3 @@ Et pour un affichage entre 701px et plus
   
 ## Accomplissement
 Cette fois, on chargera 2 fois moins de code (7 lignes) sur mobile ;)
-
-## Extra
-Arriver à débuguer ce Readme écrit en Markdown, comme vous le voyez la syntaxe pour les listes à puces non-ordonnées n'a pas l'air d'être bien interprétée ou bien implémenter...
